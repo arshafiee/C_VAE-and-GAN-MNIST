@@ -1,1 +1,1 @@
-# C_VAE-and-GAN-
+# C_VAE-and-GAN
