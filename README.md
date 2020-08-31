@@ -3,3 +3,5 @@
 
 ### C_VAE Result
 ![alt text](https://github.com/arshafiee/C_VAE-and-GAN-MNIST/blob/master/CVAE_result.png)
+### GAN Result
+![alt text](https://github.com/arshafiee/C_VAE-and-GAN-MNIST/blob/master/GAN_result.png)
